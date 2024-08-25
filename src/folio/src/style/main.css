@@ -172,7 +172,7 @@ html
     padding: 20px 30px;
     border: 2px solid #ffffff;
     border-radius: 8px;
-    background: linear-gradient(#fdb572ab, #fdb5721a);
+    background: linear-gradient(#aafd72ab, #72fd7e1a);
 }
 
 .threejs-journey .message .tip
@@ -246,7 +246,7 @@ html
 .threejs-journey .message .answer.is-no .background
 {
     border: 2px solid #ffffff;
-    background: linear-gradient(#fdb5721a, #fdb572ab);
+    background: linear-gradient(#46d4591a, #89fd72ab);
     color: #ffffff;
 }
 

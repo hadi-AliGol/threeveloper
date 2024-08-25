@@ -117,14 +117,14 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsThreejsJourneySlideASources,
-                    projectsThreejsJourneySlideBSources,
-                    projectsThreejsJourneySlideCSources,
-                    projectsThreejsJourneySlideDSources
+                    //projectsThreejsJourneySlideBSources,
+                   // projectsThreejsJourneySlideCSources,
+                   // projectsThreejsJourneySlideDSources
                 ],
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
                 {
-                    href: 'https://threejs-journey.com?c=p3',
+                    href: 'https://moasseh-hasanein.ir/my-account/',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -143,13 +143,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsMadboxSlideASources,
-                    projectsMadboxSlideBSources,
-                    projectsMadboxSlideCSources
+                  //  projectsMadboxSlideBSources,
+                  //  projectsMadboxSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://madbox.io',
+                    href: 'https://moasseh-hasanein.ir/landing/',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
@@ -169,13 +169,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsScoutSlideASources,
-                    projectsScoutSlideBSources,
-                    projectsScoutSlideCSources
+                   // projectsScoutSlideBSources,
+                  //  projectsScoutSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsScoutFloorTexture,
                 link:
                 {
-                    href: 'https://fromscout.com',
+                    href: 'https://moasseh-hasanein.ir/contact-us-elementor/',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
@@ -193,13 +193,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsChartogneSlideASources,
-                    projectsChartogneSlideBSources,
-                    projectsChartogneSlideCSources
+                   // projectsChartogneSlideBSources,
+                  //  projectsChartogneSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
                 {
-                    href: 'https://chartogne-taillet.com',
+                    href: 'https://hasanein-co.ir/Dots/index.html',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
@@ -220,13 +220,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsZenlySlideASources,
-                    projectsZenlySlideBSources,
-                    projectsZenlySlideCSources
+                   // projectsZenlySlideBSources,
+                   // projectsZenlySlideCSources
                 ],
                 floorTexture: this.resources.items.projectsZenlyFloorTexture,
                 link:
                 {
-                    href: 'https://zen.ly',
+                    href: 'https://hasanein-co.ir/Helix/index.html',
                     x: - 4.8,
                     y: - 4.2,
                     halfExtents:
@@ -247,13 +247,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsPriorHoldingsSlideASources,
-                    projectsPriorHoldingsSlideBSources,
-                    projectsPriorHoldingsSlideCSources
+                  //  projectsPriorHoldingsSlideBSources,
+                  //  projectsPriorHoldingsSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsPriorHoldingsFloorTexture,
                 link:
                 {
-                    href: 'https://prior.co.jp/discover/',
+                    href: 'https://hasanein-co.ir/Hyper/index.html',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -274,13 +274,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsOranoSlideASources,
-                    projectsOranoSlideBSources,
-                    projectsOranoSlideCSources
+                   // projectsOranoSlideBSources,
+                  //  projectsOranoSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsOranoFloorTexture,
                 link:
                 {
-                    href: 'https://www.orano.group/experience/innovation/',
+                    href: 'https://www.instagram.com/qoran_hasanein/',
                     x: - 4.8,
                     y: - 3.4,
                     halfExtents:
@@ -301,13 +301,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsCitrixRedbullSlideASources,
-                    projectsCitrixRedbullSlideBSources,
-                    projectsCitrixRedbullSlideCSources
+                   // projectsCitrixRedbullSlideBSources,
+                   // projectsCitrixRedbullSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsCitrixRedbullFloorTexture,
                 link:
                 {
-                    href: 'https://thenewmobileworkforce.imm-g-prod.com/',
+                    href: 'https://balad.ir/p/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%82%D8%B1%D8%A2%D9%86-%D9%88-%D8%B9%D8%AA%D8%B1%D8%AA-%D8%AD%D8%B3%D9%86%DB%8C%D9%86-(%D8%B9)-qom_educational-institutions-P2vSbHvmhkaxAy',
                     x: - 4.8,
                     y: - 4.4,
                     halfExtents:
@@ -335,7 +335,7 @@ export default class ProjectsSection
             //     floorTexture: this.resources.items.projectsGleecChatFloorTexture,
             //     link:
             //     {
-            //         href: 'http://gleec.imm-g-prod.com',
+            //         href: 'https://moasseh-hasanein.ir/soon',
             //         x: - 4.8,
             //         y: - 3.4,
             //         halfExtents:
@@ -356,13 +356,13 @@ export default class ProjectsSection
                 imageSources:
                 [
                     projectsKepplerSlideASources,
-                    projectsKepplerSlideBSources,
-                    projectsKepplerSlideCSources
+                  //  projectsKepplerSlideBSources,
+                   // projectsKepplerSlideCSources
                 ],
                 floorTexture: this.resources.items.projectsKepplerFloorTexture,
                 link:
                 {
-                    href: 'https://brunosimon.github.io/keppler/',
+                    href: 'https://moasseh-hasanein.ir/wp-login.php',
                     x: 2.75,
                     y: - 1.1,
                     halfExtents:
